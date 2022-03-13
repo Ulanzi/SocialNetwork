@@ -1,0 +1,16 @@
+.nav {
+    grid-area: n;
+    background-color:grey;
+    padding: 20px;
+    }
+
+    .item {
+        color:beige;
+        text-decoration: none;
+    }
+    /*text colors*/
+
+.active {
+    color: aquamarine;
+    text-decoration: none;
+}
